@@ -1,0 +1,21 @@
+Parte 0 — Preguntas Teóricas
+
+Respondan brevemente (no hace falta código) las siguientes 6 preguntas.
+
+1. ¿Qué diferencia hay entre el TDA Diccionario y el TDA Conjunto?
+ ¿Por qué el Diccionario necesita una operación como existeClave antes de definir?
+
+2. ¿Qué es un Nodo en una implementación dinámica?
+ ¿Qué información mínima debe guardar para poder encadenar los elementos entre sí?
+
+3. ¿Por qué, en una implementación dinámica, insertar un elemento al principio de una Lista es O(1), 
+mientras que en una implementación estática (con arreglo) la misma operación es O(n)?
+
+4. Mencionen una ventaja y una desventaja de una implementación dinámica frente a una 
+implementación estática, en términos de uso de memoria.
+
+5. Si dos implementaciones caen en la misma clase de complejidad teórica (mismo Big O),
+ ¿por qué en la práctica una puede medir tiempos reales distintos de la otra? Mencionen al menos un factor.
+
+6. ¿Por qué la medición empírica de tiempos (medirNanos, con warmup y mejor tiempo de varias repeticiones) 
+complementa, pero no reemplaza, al análisis de complejidad teórico (Big O)
